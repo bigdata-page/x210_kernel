@@ -1,0 +1,3 @@
+1. 在mach中创建 leds-gpio.h, 再drivers/leds下创建leds-x210.c
+2. 对应的修改Kconfig 和 Makefile
+3. 编写程序
